@@ -9,7 +9,7 @@ A tool that lets anyone pick an Earth-science variable, a season and a Kerala di
 
 Live dashboard: https://faizanshiroj.github.io/kerala-trend-detective/ | Code and data: https://github.com/faizanshiroj/kerala-trend-detective | Notebook: kerala_trend_detective.ipynb
 
-##What we found (1991-2025)
+## What we found (1991-2025)
 - Temperature is rising almost everywhere. 13 of 14 districts show a significant annual increase (about 0.5 to 0.9 °C over 35 years). In the monsoon and post-monsoon seasons, all 14 districts show a significant increase.
 - Monsoon (Jun-Sep) rainfall shows no significant trend in any district.
 - Pre-monsoon (Mar-May) rainfall is increasing significantly in 12 districts.
