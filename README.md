@@ -6,7 +6,7 @@ Team: Kerala Statistics | Members: Faizan , Gaurang , Ephraim , Megha , Razal | 
 
 A tool that lets anyone pick an Earth-science variable, a season and a Kerala district, then answers: what is changing?, where?, how much?, and whether the change is statistically significant?.
 
-Live dashboard: https://faizanshiroj.github.io/kerala-trend-detective/ |Slide Deck: https://faizanshiroj.github.io/kerala-trend-detective/NASA%20Space%20Apps%20Challenge%202026.pdf| Code and data: https://github.com/faizanshiroj/kerala-trend-detective | Notebook: kerala_trend_detective.ipynb
+Live dashboard: https://faizanshiroj.github.io/kerala-trend-detective/ |Slide Deck: https://github.com/faizanshiroj/kerala-trend-detective/blob/main/NASA%20Space%20Apps%20Challenge%202026.pdf | Code and data: https://github.com/faizanshiroj/kerala-trend-detective | Notebook: kerala_trend_detective.ipynb
 
 ## What we found (1991-2025)
 - Temperature is rising almost everywhere. 13 of 14 districts show a significant annual increase (about 0.5 to 0.9 °C over 35 years). In the monsoon and post-monsoon seasons, all 14 districts show a significant increase.
