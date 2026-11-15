@@ -34,7 +34,7 @@ The code for kerala_trend_detective.ipynb was built with the assistance of Claud
 NASA POWER (Prediction Of Worldwide Energy Resources), NASA Langley Research Center, monthly point data for 1991-2025, accessed through the POWER API. Its values are derived from NASA satellite and model products (MERRA-2, GPM IMERG).
 
 ## Other resources and tools
-Python, Google Colab, GitHub and GitHub Pages; Python libraries: requests, numpy, pandas, matplotlib, pymannkendall, ipywidgets. No third-party images are used. (Claude and Chatgpt were used for research ,debugging,analyzing and summarizing as stated above)
+Python, Google Colab, GitHub and GitHub Pages; Python libraries: requests, numpy, pandas, matplotlib, pymannkendall, ipywidgets. Default icons in ppt for the slide. No third-party images are used. (Claude and Chatgpt were used for research ,debugging,analyzing and summarizing as stated above)
 
 ## Limitations
 - NASA POWER is a coarse grid (about 50 km), so neighbouring districts have similar values.
