@@ -1,5 +1,4 @@
-# kerala-trend-detective
-Kerala Trend Detective
+# Kerala-Trend-Detective
 
 NASA Space Apps Challenge 2026 | Challenge: Be An Earth System Trend Detective!
 
