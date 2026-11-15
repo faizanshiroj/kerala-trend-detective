@@ -41,3 +41,5 @@ Python, Google Colab, GitHub and GitHub Pages; Python libraries: requests, numpy
 - We ran 350 tests, so roughly 5% of "significant" results could be false alarms by chance. Look for patterns across districts rather than single results.
 - 35 years is a short record for climate trends, and a significant trend does not by itself show the cause.
 -Results exported on 14 November 2026; small differences may appear if NASA POWER updates its data.
+
+NASA ACKNOWLEDGEMENT:https://power.larc.nasa.gov/docs/methodology/citations/
